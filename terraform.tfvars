@@ -1,1 +1,2 @@
-
+rgname = devrggh
+location = eastus
