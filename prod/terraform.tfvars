@@ -1,2 +1,2 @@
 rgname = devrggh
-location = eastus
+rglocation = eastus
