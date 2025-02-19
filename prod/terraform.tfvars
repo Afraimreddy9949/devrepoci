@@ -1,2 +1,2 @@
-rgname = devrggh
-rglocation = eastus
+rgname = "devrggh"
+rglocation = "eastus"
